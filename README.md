@@ -1,8 +1,8 @@
 \# 📝 Task Tracker CLI
 
-## 🔗 Project URL
-https://github.com/ihsabbir33/TaskTracker-CLI
+## 🔗 Project Idea From
 
+https://roadmap.sh/projects/task-tracker
 
 A simple and powerful \*\*Command Line Interface (CLI)\*\* application to manage your daily tasks efficiently.
 
@@ -239,8 +239,8 @@ task-tracker/
 
 
 \*\*Sabbir Ahmed\*\*
-
-\---
+## 🔗 Project URL
+https://github.com/ihsabbir33/TaskTracker-CLI
 
 
 
