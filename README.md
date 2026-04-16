@@ -1,5 +1,7 @@
 \# 📝 Task Tracker CLI
 
+## 🔗 Project URL
+https://github.com/ihsabbir33/TaskTracker-CLI
 
 
 A simple and powerful \*\*Command Line Interface (CLI)\*\* application to manage your daily tasks efficiently.
@@ -237,12 +239,6 @@ task-tracker/
 
 
 \*\*Sabbir Ahmed\*\*
-
-
-
-GitHub: https://github.com/ihsabbir33
-
-
 
 \---
 
